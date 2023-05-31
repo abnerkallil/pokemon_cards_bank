@@ -2,7 +2,6 @@ body{
     background-color: #080808;
 }
 section.land-page{
-    
     padding: 3% 10%;
     text-align: center;
     height: 100%;
@@ -10,16 +9,17 @@ section.land-page{
 }
 section.main > nav.navbar{
     background-color: rgb(0, 0, 0);
-    
 }
 a.navbar-brand{
-    color: white !important;
-    
+    color: white !important;  
+    width: 50%;
+}
+a.navbar-brand img{
+    width: 10%;
 }
 section.each-pokemon{
     display: flex;
     justify-content: space-between;
-    
 }
 
 #poke-image{
@@ -33,28 +33,35 @@ div.poke-img{
 section.pokemon{
     width: 100%;
     display: flex;
-    justify-content: center;
-    
-    
+    justify-content: center; 
 }
 div.pokemon-card-container{
     width:100%;
     padding: 3%;
 }   
 img.pokemon-card{
-    width: 20%;
-    padding: 3% 3%;
+    width: 10%;
+    margin: 3% 2%;
+    background-color: transparent;
 }
 
+.pokemon a img:hover{
+    box-shadow: 0px 5px 30px rgb(211, 179, 39);
+}
+
+
 img.pokemon-card-searched{
-    width: 40%;
-    padding: 3%;
+    width: 20%;
+    margin: 3% 2%;
     
 }
+
 .btn {
     background-color: rgb(211, 179, 39);
 }
 section.pokemons-title h2{
     font-size: 1rem;
 }
+
+
 
