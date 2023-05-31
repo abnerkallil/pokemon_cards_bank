@@ -3,7 +3,7 @@
 ![image](https://github.com/abnerkallil/pokemon_cards_bank/assets/21678666/895e9b80-5db1-4d84-8425-96912250dddf)
 
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+Link to project: [Pokedevs Live Demo](https://pokedevs.netlify.app/)
 
 Pokedevs Live Demo
 
